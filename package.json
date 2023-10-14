@@ -1,0 +1,23 @@
+{
+  "name": "cuvl-theme",
+  "displayName": "CUVL-Theme",
+  "description": "visual studioc code color scheme inspired in The CUVL.",
+  "version": "0.0.1",
+  "icon": "vl_icon,jpg",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "main": "./src/extension.js",
+  "contributes": {
+    "themes": [
+      {
+        "label": "CUVL",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CUVL-color-theme.json"
+      }
+    ]
+  }
+}
