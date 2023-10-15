@@ -2,6 +2,7 @@
   "name": "cuvl-theme",
   "displayName": "CUVL-Theme",
   "description": "visual studioc code color scheme inspired in The CUVL.",
+  "publisher":"cuvl-theme",
   "version": "0.0.1",
   "icon": "vl_icon.jpg",
   "engines": {
